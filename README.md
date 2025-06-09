@@ -1,8 +1,8 @@
 # Integrador-programacion
 TRABAJO INTEGRADOR PROGRAMACIÓN
 Integrantes:
-- Gabriel Valdez Arce
-- Luis Fernando Vega
+- Gabriel Valdez Arce DNI- 42642106
+- Luis Fernando Vega DNI- 40454514
 
 ## Descripción del Proyecto
 Este proyecto forma parte del trabajo integrador de la materia **Programación I** en la Tecnicatura Universitaria en Programación. El objetivo fue analizar la eficiencia de dos algoritmos en Python que verifican si una palabra es un palíndromo, utilizando análisis teórico y pruebas prácticas.
